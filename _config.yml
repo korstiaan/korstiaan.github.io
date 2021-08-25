@@ -1,0 +1,10 @@
+title: Korstiaan
+baseurl: "" # the subpath of your site, e.g. /blog
+domain: korstiaan.com
+twitter_username: korstiaan
+github_username:  korstiaan
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
